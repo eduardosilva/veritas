@@ -155,7 +155,6 @@ export default function AuthNavbar(props) {
         link.name === "Applications" ||
         link.name === "Ecommerce" ||
         link.name === "Authentication" ||
-        link.name === "RTL" ||
         link.name === "Widgets" ||
         link.name === "Charts" ||
         link.name === "Alerts"
